@@ -1,4 +1,3 @@
-# africa-enso
 # El Niño rainfall forecast vs malaria risk across Africa (ADM2)
 
 This analysis puts two layers side by side for every second-level administrative unit (ADM2) in Africa. The first is the forecast rainfall anomaly driven by the 2026–27 El Niño over the coming months, and the second is the current malaria burden, measured as the *Plasmodium falciparum* parasite rate in children aged 2–10 (PfPR 2–10). The aim is to show where El Niño is expected to shift rainfall in places that already carry a high malaria burden, so those districts can be flagged for closer monitoring, preparedness or response planning.
