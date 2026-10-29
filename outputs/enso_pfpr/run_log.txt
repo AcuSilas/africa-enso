@@ -1,0 +1,40 @@
+
+── Africa: El Niño rainfall and temperature anomaly forecast vs PfPR by ADM2 ───
+
+── ADM2 boundaries (geoBoundaries CGAZ) ──
+
+ℹ Using cached boundaries (adm2_africa_cgaz.gpkg)
+✔ 5340 units across 56 countries
+(34 of them ADM1)
+
+── MAP PfPR 2-10 ──
+
+ℹ PfPR 2025 raster already downloaded
+
+── WorldPop R2025A 1 km population ──
+
+ℹ Population on 1 km grid 1531M, on PfPR grid
+1529M
+
+── Population-weighted PfPR by ADM2 ──
+
+ℹ 1125 units have no PfPR estimate (mostly outside MAP's Pf
+transmission limits, or no population)
+
+── PfPR map ──
+
+✔ Saved map_pfpr_adm2.png
+
+── C3S seasonal forecast anomalies ──
+
+ℹ rain: 9 of 9 centres in the
+multi-model mean
+ℹ temp: 9 of 9 centres in the
+multi-model mean
+
+── Forecast anomaly maps ──
+
+✔ Saved map_enso_rain_anom_adm2.png
+✔ Saved map_enso_temp_anom_adm2.png
+── Africa ENSO vs PfPR complete ───────────────────────── 2026-10-28 16:38:36 ──
+exit: 0
